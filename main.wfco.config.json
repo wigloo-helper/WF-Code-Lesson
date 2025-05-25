@@ -1,4 +1,6 @@
 {
-    "wfAccount": "https://wigglyfoodbar.kf.com/wags/account/bug-free-cod-hgfahghdhsdhjsjshGjbHhjha-snugsnugsnug.wagssnugaccount/"
-    
+    "wfAccount": "https://wigglyfoodbar.kf.com/wags/account/bug-free-cod-hgfahghdhsdhjsjshGjbHhjha-snugsnugsnug.wagssnugaccount/",
+    "snugs": "file",
+    "README": true,
+    "README.file": "./README.md"
 }
